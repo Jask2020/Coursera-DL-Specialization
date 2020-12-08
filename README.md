@@ -7,7 +7,7 @@ This repository contains all of my assignment solutions and outputs for the Deep
 
 Do not copy the solutions from this repository: It is intended to be a reference. It's main purpose is as a reference for myself to look back upon when working on further projects related to these topics. 
 
-This specialization had five courses:
+###This specialization had five courses:
 
 Course 1: Neural Networks and Deep Learning
 
