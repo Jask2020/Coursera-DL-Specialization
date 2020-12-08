@@ -10,6 +10,7 @@ Do not copy the solutions from this repository: It is intended to be a reference
 This specialization had five courses:
 
 Course 1: Neural Networks and Deep Learning
+
 Course 2: Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization
 
 Course 3: Structuring Machine Learning Projects (no assignments, just case studies)
